@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from djangp.http import HttpResponse
+from django.http import HttpResponse
 
 def index(request):
     return HttpResponse("Hello World")
