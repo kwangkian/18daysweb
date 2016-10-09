@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 forum/forum/__pycache__/
+forum/.idea/
 *.py[cod]
 *$py.class
 
